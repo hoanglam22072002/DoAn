@@ -1,0 +1,47 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 56,
+  "boxShadow": "none",
+  "buttonColor": "#15803d",
+  "buttonVariant": "SECONDARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "k601y4t0ao",
+  "leftColumn": 45,
+  "minWidth": 120,
+  "mobileBottomRow": 54,
+  "mobileLeftColumn": 45,
+  "mobileRightColumn": 61,
+  "mobileTopRow": 50,
+  "needsErrorInfo": false,
+  "onClick": "{{navigateTo('Xác nhận đóng góp vật phẩm', {}, 'SAME_WINDOW');}}",
+  "parentColumnSpace": 6.53125,
+  "parentId": "528dw4gujj",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 62,
+  "text": "Đóng góp",
+  "topRow": 51,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "awlgizenjo",
+  "widgetName": "Button1"
+}

@@ -1,0 +1,50 @@
+{
+  "accentColor": "#366d4c",
+  "alignWidget": "LEFT",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 33,
+  "defaultCheckedState": true,
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [
+    {
+      "key": "onCheckChange"
+    }
+  ],
+  "isDisabled": false,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "4c0to7ay9c",
+  "label": "Nhớ mật khẩu",
+  "labelPosition": "Right",
+  "labelTextColor": "#366d4c",
+  "leftColumn": 5,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 31,
+  "mobileLeftColumn": 12,
+  "mobileRightColumn": 24,
+  "mobileTopRow": 27,
+  "needsErrorInfo": false,
+  "onCheckChange": "{{storeValue(\"\", \"\")}}",
+  "originalBottomRow": 33,
+  "originalTopRow": 29,
+  "parentColumnSpace": 5.6064453125,
+  "parentId": "4t16l23n1j",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 30,
+  "topRow": 29,
+  "type": "CHECKBOX_WIDGET",
+  "version": 1,
+  "widgetId": "gql551003c",
+  "widgetName": "cbNhoMatKhau"
+}

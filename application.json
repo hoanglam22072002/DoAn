@@ -1,0 +1,121 @@
+{
+  "appIsExample": false,
+  "appLayout": {
+    "type": "MOBILE"
+  },
+  "applicationDetail": {
+    "navigationSetting": {
+      "colorStyle": "light",
+      "logoAssetId": "",
+      "logoConfiguration": "logoAndApplicationTitle",
+      "navStyle": "stacked",
+      "orientation": "top",
+      "position": "static",
+      "showNavbar": true,
+      "showSignIn": true
+    },
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#F4FFDE",
+  "evaluationVersion": 2,
+  "pages": [
+    {
+      "id": "Đăng nhập",
+      "isDefault": true
+    },
+    {
+      "id": "Đăng ký",
+      "isDefault": false
+    },
+    {
+      "id": "Home",
+      "isDefault": false
+    },
+    {
+      "id": "Thông báo",
+      "isDefault": false
+    },
+    {
+      "id": "Cá nhân",
+      "isDefault": false
+    },
+    {
+      "id": "Theo dõi",
+      "isDefault": false
+    },
+    {
+      "id": "Tìm kiếm",
+      "isDefault": false
+    },
+    {
+      "id": "More",
+      "isDefault": false
+    },
+    {
+      "id": "Nhà Tài Trợ",
+      "isDefault": false
+    },
+    {
+      "id": "Tình nguyện viên",
+      "isDefault": false
+    },
+    {
+      "id": "Chương trình tham gia",
+      "isDefault": false
+    },
+    {
+      "id": "Nhiệm vụ hoàn thành",
+      "isDefault": false
+    },
+    {
+      "id": "Đóng góp vật phẩm",
+      "isDefault": false
+    },
+    {
+      "id": "Đóng góp tiền",
+      "isDefault": false
+    },
+    {
+      "id": "Chương trình tài trợ",
+      "isDefault": false
+    },
+    {
+      "id": "Lịch sử đóng góp",
+      "isDefault": false
+    },
+    {
+      "id": "Xác nhận đóng góp tiền",
+      "isDefault": false
+    },
+    {
+      "id": "Xác nhận đóng góp vật phẩm",
+      "isDefault": false
+    }
+  ],
+  "unpublishedAppLayout": {
+    "type": "MOBILE"
+  },
+  "unpublishedApplicationDetail": {
+    "navigationSetting": {
+      "colorStyle": "light",
+      "logoAssetId": "",
+      "logoConfiguration": "logoAndApplicationTitle",
+      "navStyle": "stacked",
+      "orientation": "top",
+      "position": "static",
+      "showNavbar": true,
+      "showSignIn": true
+    },
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  }
+}

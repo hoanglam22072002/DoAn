@@ -1,0 +1,172 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 7,
+  "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
+  "buttonVariant": "TERTIARY",
+  "childStylesheet": {
+    "button": {
+      "buttonColor": "{{appsmith.theme.colors.primaryColor}}"
+    }
+  },
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "groupButtons.groupButtong2wnxjuf6l.onClick"
+    },
+    {
+      "key": "groupButtons.groupButton1.onClick"
+    },
+    {
+      "key": "groupButtons.groupButton3.onClick"
+    },
+    {
+      "key": "groupButtons.groupButton2.onClick"
+    }
+  ],
+  "groupButtons": {
+    "groupButton1": {
+      "buttonColor": "#15803d",
+      "buttonType": "SIMPLE",
+      "iconAlign": "left",
+      "iconName": "home",
+      "id": "groupButton1",
+      "index": 0,
+      "isDisabled": false,
+      "isVisible": true,
+      "label": "Trang chủ",
+      "menuItems": {
+        "menuItem430vkax95p": {
+          "id": "menuItem430vkax95p",
+          "index": 0,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Menu Item",
+          "widgetId": "ih047a36ha"
+        }
+      },
+      "onClick": "{{navigateTo('Home', {}, 'SAME_WINDOW');}}",
+      "placement": "CENTER",
+      "widgetId": ""
+    },
+    "groupButton2": {
+      "buttonColor": "#15803d",
+      "buttonType": "SIMPLE",
+      "iconName": "eye-open",
+      "id": "groupButton2",
+      "index": 1,
+      "isDisabled": false,
+      "isVisible": true,
+      "label": "Theo dõi",
+      "menuItems": {},
+      "onClick": "{{navigateTo('Theo dõi', {}, 'SAME_WINDOW');}}",
+      "placement": "CENTER",
+      "widgetId": ""
+    },
+    "groupButton3": {
+      "buttonColor": "#15803d",
+      "buttonType": "SIMPLE",
+      "iconName": "person",
+      "id": "groupButton3",
+      "index": 2,
+      "isDisabled": false,
+      "isVisible": true,
+      "label": "Cá nhân",
+      "menuItems": {
+        "menuItem3": {
+          "backgroundColor": "#ffffff",
+          "iconAlign": "right",
+          "iconColor": "#FFFFFF",
+          "id": "menuItem3",
+          "index": 0,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "",
+          "onClick": "",
+          "textColor": "#FFFFFF",
+          "widgetId": ""
+        }
+      },
+      "onClick": "{{navigateTo('Cá nhân', {}, 'SAME_WINDOW');}}",
+      "placement": "CENTER",
+      "widgetId": ""
+    },
+    "groupButtong2wnxjuf6l": {
+      "buttonColor": "#15803d",
+      "buttonType": "SIMPLE",
+      "iconName": "menu",
+      "id": "groupButtong2wnxjuf6l",
+      "index": 3,
+      "isDisabled": false,
+      "isSeparator": false,
+      "isVisible": true,
+      "itemType": "BUTTON",
+      "label": "",
+      "menuItems": {
+        "menuItem6mdwugo34z": {
+          "id": "menuItem6mdwugo34z",
+          "index": 1,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Menu Item",
+          "widgetId": "84olag25ov"
+        },
+        "menuItem9c4eyhtdbq": {
+          "id": "menuItem9c4eyhtdbq",
+          "index": 3,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Menu Item",
+          "widgetId": "8g4aklqeyy"
+        },
+        "menuItemu6y57knhur": {
+          "id": "menuItemu6y57knhur",
+          "index": 0,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Menu Item",
+          "widgetId": "prcuqb5hrb"
+        },
+        "menuItemxb6vat14zp": {
+          "id": "menuItemxb6vat14zp",
+          "index": 2,
+          "isDisabled": false,
+          "isVisible": true,
+          "label": "Menu Item",
+          "widgetId": "u2no5k5s60"
+        }
+      },
+      "onClick": "{{navigateTo('More', {}, 'SAME_WINDOW');}}",
+      "placement": "CENTER",
+      "variant": "filled",
+      "widgetId": "k6koulpufv"
+    }
+  },
+  "isCanvas": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "vzlj5qev5k",
+  "leftColumn": 0,
+  "minWidth": 450,
+  "mobileBottomRow": 5,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 21,
+  "mobileTopRow": 1,
+  "needsErrorInfo": false,
+  "orientation": "horizontal",
+  "parentColumnSpace": 6.0146484375,
+  "parentId": "w6fd51xohd",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 64,
+  "topRow": 0,
+  "type": "BUTTON_GROUP_WIDGET",
+  "version": 1,
+  "widgetId": "j5ytk5sm52",
+  "widgetName": "ButtonGroup1"
+}

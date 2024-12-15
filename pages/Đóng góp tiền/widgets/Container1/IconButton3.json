@@ -1,0 +1,42 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 15,
+  "boxShadow": "none",
+  "buttonColor": "#15803d",
+  "buttonVariant": "TERTIARY",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "iconName": "arrow-left",
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "l79pj2102a",
+  "leftColumn": 1,
+  "minWidth": 50,
+  "mobileBottomRow": 15,
+  "mobileLeftColumn": 2,
+  "mobileRightColumn": 6,
+  "mobileTopRow": 11,
+  "needsErrorInfo": false,
+  "onClick": "{{navigateTo('Nhà Tài Trợ', {}, 'SAME_WINDOW');}}",
+  "parentColumnSpace": 6.53125,
+  "parentId": "10jzzwgki2",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 7,
+  "topRow": 11,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "xo80qi8m9y",
+  "widgetName": "IconButton3"
+}

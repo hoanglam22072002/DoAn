@@ -1,0 +1,38 @@
+{
+  "animateLoading": true,
+  "borderRadius": "1.5rem",
+  "bottomRow": 6,
+  "boxShadow": "none",
+  "buttonColor": "#15803d",
+  "buttonVariant": "PRIMARY",
+  "dynamicBindingPathList": [],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "iconName": "notifications",
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "c8czlduip1",
+  "leftColumn": 55,
+  "minWidth": 50,
+  "mobileBottomRow": 32,
+  "mobileLeftColumn": 35,
+  "mobileRightColumn": 39,
+  "mobileTopRow": 28,
+  "needsErrorInfo": false,
+  "onClick": "{{navigateTo('Thông báo', {}, 'SAME_WINDOW');}}",
+  "parentColumnSpace": 6.84375,
+  "parentId": "glgdd4yeps",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 63,
+  "topRow": 1,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "4wl8h3vslw",
+  "widgetName": "IconButton2"
+}
