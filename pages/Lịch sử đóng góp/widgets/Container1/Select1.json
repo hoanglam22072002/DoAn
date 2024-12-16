@@ -1,0 +1,59 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 23,
+  "boxShadow": "none",
+  "defaultOptionValue": "GREEN",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "sourceData"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "isDisabled": false,
+  "isFilterable": true,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "i8gp3x2840",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelText": "Loại đóng góp",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 29,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 24,
+  "mobileLeftColumn": 30,
+  "mobileRightColumn": 50,
+  "mobileTopRow": 17,
+  "needsErrorInfo": false,
+  "optionLabel": "name",
+  "optionValue": "code",
+  "parentColumnSpace": 6.3173828125,
+  "parentId": "hkhjfptpn4",
+  "parentRowSpace": 10,
+  "placeholderText": "Select option",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 60,
+  "serverSideFiltering": false,
+  "sourceData": "[\n  {\n    \"name\": \"Blue\",\n    \"code\": \"BLUE\"\n  },\n  {\n    \"name\": \"Green\",\n    \"code\": \"GREEN\"\n  },\n  {\n    \"name\": \"Red\",\n    \"code\": \"RED\"\n  }\n]",
+  "topRow": 16,
+  "type": "SELECT_WIDGET",
+  "version": 1,
+  "widgetId": "57gnsj0ghg",
+  "widgetName": "Select1"
+}

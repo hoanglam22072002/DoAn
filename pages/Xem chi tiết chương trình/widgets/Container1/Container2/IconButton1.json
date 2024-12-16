@@ -1,0 +1,38 @@
+{
+  "animateLoading": true,
+  "borderRadius": "1.5rem",
+  "bottomRow": 5,
+  "boxShadow": "none",
+  "buttonColor": "#15803d",
+  "buttonVariant": "PRIMARY",
+  "dynamicBindingPathList": [],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "iconName": "search",
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "udrm14q9h1",
+  "leftColumn": 45,
+  "minWidth": 50,
+  "mobileBottomRow": 5,
+  "mobileLeftColumn": 46,
+  "mobileRightColumn": 50,
+  "mobileTopRow": 1,
+  "needsErrorInfo": false,
+  "onClick": "{{navigateTo('Tìm kiếm', {}, 'SAME_WINDOW');\nnavigateTo('Tìm kiếm', {}, 'SAME_WINDOW');}}",
+  "parentColumnSpace": 6.53125,
+  "parentId": "ae2qcsmn1t",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 54,
+  "topRow": 0,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "61rlrdylud",
+  "widgetName": "IconButton1"
+}

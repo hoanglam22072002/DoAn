@@ -28,7 +28,7 @@
   "mobileRightColumn": 61,
   "mobileTopRow": 50,
   "needsErrorInfo": false,
-  "onClick": "{{navigateTo('Đóng góp tiền', {}, 'SAME_WINDOW');}}",
+  "onClick": "{{navigateTo('Xác nhận đóng góp tiền', {}, 'SAME_WINDOW');}}",
   "parentColumnSpace": 6.53125,
   "parentId": "10jzzwgki2",
   "parentRowSpace": 10,

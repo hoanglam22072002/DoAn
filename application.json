@@ -96,6 +96,10 @@
     {
       "id": "Xác nhận đóng góp vật phẩm",
       "isDefault": false
+    },
+    {
+      "id": "Xem chi tiết chương trình",
+      "isDefault": false
     }
   ],
   "unpublishedAppLayout": {

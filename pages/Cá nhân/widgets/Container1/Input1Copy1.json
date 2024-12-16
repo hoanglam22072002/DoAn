@@ -24,7 +24,7 @@
   "isRequired": true,
   "isVisible": true,
   "key": "kjcw0rmx7r",
-  "label": "Họ tên",
+  "label": "Họ tên*",
   "labelAlignment": "left",
   "labelPosition": "Left",
   "labelStyle": "",

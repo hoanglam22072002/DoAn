@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "67579b198935f2255c64dee8_33480cb6-aee7-40f0-a3dd-7168bd530b5b",
+  "unpublishedPage": {
+    "isHidden": false,
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 670,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "minHeight": 800,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "snapRows": 78,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 90,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "Xem chi tiết chương trình",
+    "slug": "xem-chi-tiet-chuong-trinh"
+  }
+}
