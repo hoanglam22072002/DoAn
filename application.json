@@ -24,6 +24,7 @@
   "collapseInvisibleWidgets": true,
   "color": "#F4FFDE",
   "evaluationVersion": 2,
+  "icon": "workflows",
   "pages": [
     {
       "id": "Đăng nhập",
