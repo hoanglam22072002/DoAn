@@ -1,47 +1,56 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 10,
+  "bottomRow": 8,
+  "boxShadow": "none",
   "dynamicBindingPathList": [
+    {
+      "key": "text"
+    },
     {
       "key": "truncateButtonColor"
     },
     {
+      "key": "fontFamily"
+    },
+    {
       "key": "borderRadius"
+    },
+    {
+      "key": "text"
     }
   ],
-  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicHeight": "FIXED",
   "dynamicTriggerPathList": [],
-  "fontFamily": "Inter",
-  "fontSize": "1.25rem",
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "1rem",
   "fontStyle": "BOLD",
   "isLoading": false,
   "isVisible": true,
-  "key": "818qwwj50q",
-  "leftColumn": 2,
+  "key": "593a82hmtu",
+  "leftColumn": 16,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
   "minWidth": 450,
-  "mobileBottomRow": 5,
-  "mobileLeftColumn": 1,
-  "mobileRightColumn": 41,
-  "mobileTopRow": 1,
+  "mobileBottomRow": 8,
+  "mobileLeftColumn": 16,
+  "mobileRightColumn": 24,
+  "mobileTopRow": 4,
   "needsErrorInfo": false,
-  "originalBottomRow": 10,
-  "originalTopRow": 4,
   "overflow": "NONE",
-  "parentId": "l9phdbmo00",
+  "parentId": "02rzkil5q8",
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
-  "rightColumn": 57,
+  "rightColumn": 24,
   "shouldTruncate": false,
-  "text": "Bạn có chắc chắn muốn xoá tài khoản không ?",
+  "text": "{{currentItem.id}}",
   "textAlign": "LEFT",
-  "textColor": "#b91c1c",
+  "textColor": "#231F20",
+  "textStyle": "BODY",
   "topRow": 4,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
-  "widgetId": "snmbsg58rg",
-  "widgetName": "Text4"
+  "widgetId": "cb271jxyv9",
+  "widgetName": "Text5"
 }
