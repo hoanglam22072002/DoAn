@@ -7,7 +7,11 @@
   "buttonVariant": "SECONDARY",
   "disabledWhenInvalid": true,
   "dynamicBindingPathList": [],
-  "dynamicTriggerPathList": [],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
   "iconAlign": "left",
   "isDefaultClickDisabled": true,
   "isDisabled": false,
@@ -21,6 +25,7 @@
   "mobileRightColumn": 62,
   "mobileTopRow": 33,
   "needsErrorInfo": false,
+  "onClick": "{{navigateTo('Home', {}, 'SAME_WINDOW');}}",
   "originalBottomRow": 39,
   "originalTopRow": 34,
   "parentId": "4t16l23n1j",
