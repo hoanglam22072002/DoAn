@@ -58,52 +58,6 @@
       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
       "bottomRow": 310,
       "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
-      "canExtend": true,
-      "detachFromLayout": true,
-      "dynamicBindingPathList": [
-        {
-          "key": "borderRadius"
-        },
-        {
-          "key": "boxShadow"
-        }
-      ],
-      "dynamicHeight": "AUTO_HEIGHT",
-      "dynamicTriggerPathList": [],
-      "flexLayers": [],
-      "isDisabled": false,
-      "isLoading": false,
-      "isVisible": true,
-      "key": "tm3utbtxcj",
-      "leftColumn": 0,
-      "maxDynamicHeight": 9000,
-      "minDynamicHeight": 4,
-      "minHeight": 150,
-      "minWidth": 450,
-      "mobileBottomRow": 150,
-      "mobileLeftColumn": 0,
-      "mobileRightColumn": 156.75,
-      "mobileTopRow": 0,
-      "needsErrorInfo": false,
-      "parentColumnSpace": 1,
-      "parentId": "ko0en2u31o",
-      "parentRowSpace": 1,
-      "renderMode": "CANVAS",
-      "responsiveBehavior": "fill",
-      "rightColumn": 156.75,
-      "shouldScrollContents": false,
-      "tabId": "tab2",
-      "tabName": "Đã hoàn thành",
-      "topRow": 0,
-      "type": "CANVAS_WIDGET",
-      "version": 1,
-      "widgetId": "h05m1ka38v",
-      "widgetName": "Canvas6"
-    },
-    {
-      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-      "bottomRow": 310,
-      "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
       "canExtend": false,
       "containerStyle": "none",
       "detachFromLayout": true,
@@ -146,7 +100,7 @@
       "widgetName": "Canvas9"
     }
   ],
-  "defaultTab": "Tab 1",
+  "defaultTab": "",
   "dynamicBindingPathList": [
     {
       "key": "borderRadius"
@@ -188,17 +142,9 @@
       "positioning": "vertical",
       "widgetId": "4607iiv3qg"
     },
-    "tab2": {
-      "id": "tab2",
-      "index": 1,
-      "isVisible": true,
-      "label": "Đã hoàn thành",
-      "positioning": "vertical",
-      "widgetId": "h05m1ka38v"
-    },
     "taba37pb41514": {
       "id": "taba37pb41514",
-      "index": 2,
+      "index": 1,
       "isVisible": true,
       "label": "Nhiệm vụ chưa nhận",
       "widgetId": "44eco1owys"

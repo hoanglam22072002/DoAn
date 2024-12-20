@@ -39,6 +39,8 @@
   "mobileRightColumn": 35,
   "mobileTopRow": 31,
   "needsErrorInfo": false,
+  "originalBottomRow": 42,
+  "originalTopRow": 38,
   "parentColumnSpace": 6.3173828125,
   "parentId": "44x5eos7b7",
   "parentRowSpace": 10,

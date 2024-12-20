@@ -29,7 +29,7 @@
   "mobileRightColumn": 63,
   "mobileTopRow": 18,
   "needsErrorInfo": false,
-  "onClick": "{{navigateTo('Lịch sử đóng góp', {}, 'SAME_WINDOW');\nshowAlert('Đơn đóng góp đã được ghi nhận', 'success');}}",
+  "onClick": "{{navigateTo('Đơn đóng góp vật phẩm', {}, 'SAME_WINDOW');\nshowAlert('Đơn đóng góp đã được ghi nhận', 'success');}}",
   "originalBottomRow": 24,
   "originalTopRow": 20,
   "parentId": "q55tjnv6wj",

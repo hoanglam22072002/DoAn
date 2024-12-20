@@ -1,0 +1,47 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 30,
+  "boxShadow": "none",
+  "buttonColor": "#15803d",
+  "buttonVariant": "SECONDARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "24uo43mhxh",
+  "leftColumn": 0,
+  "minWidth": 120,
+  "mobileBottomRow": 29,
+  "mobileLeftColumn": 44,
+  "mobileRightColumn": 60,
+  "mobileTopRow": 25,
+  "needsErrorInfo": false,
+  "onClick": "{{navigateTo('Lịch sử hoạt động', {}, 'SAME_WINDOW');}}",
+  "parentColumnSpace": 6.3173828125,
+  "parentId": "ceqm1gck5m",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 64,
+  "text": "Lịch sử hoạt động",
+  "topRow": 26,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "dbb7u6o6xy",
+  "widgetName": "Button4"
+}

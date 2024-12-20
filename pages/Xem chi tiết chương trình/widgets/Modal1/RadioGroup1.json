@@ -1,0 +1,77 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "alignment": "left",
+  "animateLoading": true,
+  "bottomRow": 31,
+  "boxShadow": "none",
+  "defaultOptionValue": "Y",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "flexVerticalAlignment": "start",
+  "isDisabled": false,
+  "isInline": true,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "yuotvupikn",
+  "label": "Nhiệm vụ chương trình",
+  "labelAlignment": "left",
+  "labelPosition": "Auto",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 3,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "mobileBottomRow": 19,
+  "mobileLeftColumn": 5,
+  "mobileRightColumn": 25,
+  "mobileTopRow": 13,
+  "needsErrorInfo": false,
+  "options": [
+    {
+      "label": "Nấu cơm",
+      "value": "op1"
+    },
+    {
+      "label": "Chuẩn bị guyên liệu",
+      "value": "op2"
+    },
+    {
+      "label": "Sơ chế",
+      "value": "op3"
+    },
+    {
+      "label": "Chia cơm",
+      "value": "op4"
+    },
+    {
+      "label": "Vận chuyển cơm",
+      "value": "op5"
+    },
+    {
+      "label": "Phát cơm",
+      "value": "op6"
+    },
+    {
+      "label": "Dọn dẹp",
+      "value": "op7"
+    }
+  ],
+  "originalBottomRow": 31,
+  "originalTopRow": 9,
+  "parentColumnSpace": 6.4921875,
+  "parentId": "ynfq2i15zz",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 36,
+  "topRow": 9,
+  "type": "RADIO_GROUP_WIDGET",
+  "version": 1,
+  "widgetId": "rm8x1tbdj3",
+  "widgetName": "RadioGroup1"
+}

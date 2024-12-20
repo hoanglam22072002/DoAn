@@ -2,7 +2,7 @@
   "accentColor": "{{appsmith.theme.colors.primaryColor}}",
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 32,
+  "bottomRow": 25,
   "boxShadow": "none",
   "defaultOptionValue": "Hà Nội",
   "dynamicBindingPathList": [
@@ -26,7 +26,7 @@
   "labelText": "Địa điểm",
   "labelTextSize": "0.875rem",
   "labelWidth": 5,
-  "leftColumn": 3,
+  "leftColumn": 2,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
   "minWidth": 450,
@@ -43,7 +43,7 @@
   "placeholderText": "Select option(s)",
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
-  "rightColumn": 49,
+  "rightColumn": 26,
   "serverSideFiltering": false,
   "sourceData": [
     {
@@ -59,7 +59,7 @@
       "name": "Red"
     }
   ],
-  "topRow": 25,
+  "topRow": 18,
   "type": "MULTI_SELECT_WIDGET_V2",
   "version": 1,
   "widgetId": "0bu92clf1w",
