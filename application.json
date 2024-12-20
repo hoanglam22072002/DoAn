@@ -24,6 +24,7 @@
   "collapseInvisibleWidgets": true,
   "color": "#F4FFDE",
   "evaluationVersion": 2,
+  "icon": "workflows",
   "pages": [
     {
       "id": "Đăng nhập",
@@ -94,7 +95,27 @@
       "isDefault": false
     },
     {
-      "id": "Xác nhận đóng góp vật phẩm",
+      "id": "Xem chi tiết chương trình",
+      "isDefault": false
+    },
+    {
+      "id": "Xem thông tin hoá đơn",
+      "isDefault": false
+    },
+    {
+      "id": "Đơn đóng góp vật phẩm",
+      "isDefault": false
+    },
+    {
+      "id": "Xem báo cáo chi tiêu",
+      "isDefault": false
+    },
+    {
+      "id": "Xem quyết toán",
+      "isDefault": false
+    },
+    {
+      "id": "Lịch sử hoạt động",
       "isDefault": false
     }
   ],

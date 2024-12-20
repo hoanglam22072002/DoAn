@@ -23,6 +23,9 @@
     },
     {
       "key": "groupButtons.groupButton3.onClick"
+    },
+    {
+      "key": "groupButtons.groupButton2.onClick"
     }
   ],
   "groupButtons": {
@@ -60,6 +63,7 @@
       "isVisible": true,
       "label": "Theo dõi",
       "menuItems": {},
+      "onClick": "{{navigateTo('Theo dõi', {}, 'SAME_WINDOW');}}",
       "placement": "CENTER",
       "widgetId": ""
     },

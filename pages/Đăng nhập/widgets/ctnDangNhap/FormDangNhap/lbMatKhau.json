@@ -13,6 +13,7 @@
   ],
   "dynamicHeight": "FIXED",
   "dynamicTriggerPathList": [],
+  "errorMessage": "Sai mật khẩu",
   "iconAlign": "left",
   "iconName": "lock",
   "inputType": "TEXT",

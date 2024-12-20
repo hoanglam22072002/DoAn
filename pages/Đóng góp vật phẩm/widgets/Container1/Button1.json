@@ -28,7 +28,7 @@
   "mobileRightColumn": 61,
   "mobileTopRow": 50,
   "needsErrorInfo": false,
-  "onClick": "{{navigateTo('Xác nhận đóng góp vật phẩm', {}, 'SAME_WINDOW');}}",
+  "onClick": "{{showModal(Modal1.name);}}",
   "parentColumnSpace": 6.53125,
   "parentId": "528dw4gujj",
   "parentRowSpace": 10,

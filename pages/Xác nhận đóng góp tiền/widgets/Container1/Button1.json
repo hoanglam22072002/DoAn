@@ -1,0 +1,49 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 55,
+  "boxShadow": "none",
+  "buttonColor": "#15803d",
+  "buttonVariant": "SECONDARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "k601y4t0ao",
+  "leftColumn": 3,
+  "minWidth": 120,
+  "mobileBottomRow": 54,
+  "mobileLeftColumn": 45,
+  "mobileRightColumn": 61,
+  "mobileTopRow": 50,
+  "needsErrorInfo": false,
+  "onClick": "{{navigateTo('Xem thông tin hoá đơn', {}, 'SAME_WINDOW');\nshowAlert('Đơn đóng góp đã được ghi nhận', 'success');}}",
+  "originalBottomRow": 56,
+  "originalTopRow": 49,
+  "parentColumnSpace": 6.53125,
+  "parentId": "l6mzx51ac7",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 61,
+  "text": "Xem thông tin hoá đơn",
+  "topRow": 48,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "r59md3m47e",
+  "widgetName": "Button1"
+}

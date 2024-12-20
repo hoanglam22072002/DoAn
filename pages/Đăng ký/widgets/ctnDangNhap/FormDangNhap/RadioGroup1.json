@@ -1,0 +1,55 @@
+{
+  "accentColor": "#15803d",
+  "alignment": "left",
+  "animateLoading": true,
+  "bottomRow": 53,
+  "boxShadow": "none",
+  "defaultOptionValue": "M",
+  "dynamicBindingPathList": [],
+  "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [],
+  "flexVerticalAlignment": "start",
+  "isDisabled": false,
+  "isInline": true,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "j7vw9svtra",
+  "label": "Giới tính",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelTextSize": "0.875rem",
+  "labelWidth": "14",
+  "leftColumn": 3,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "mobileBottomRow": 50,
+  "mobileLeftColumn": 31,
+  "mobileRightColumn": 51,
+  "mobileTopRow": 44,
+  "needsErrorInfo": false,
+  "options": [
+    {
+      "label": "Nam",
+      "value": "M"
+    },
+    {
+      "label": "Nữ",
+      "value": "F"
+    },
+    {
+      "label": "Khác",
+      "value": "K"
+    }
+  ],
+  "parentColumnSpace": 6.3173828125,
+  "parentId": "4t16l23n1j",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 57,
+  "topRow": 48,
+  "type": "RADIO_GROUP_WIDGET",
+  "version": 1,
+  "widgetId": "xxxcx0h7oq",
+  "widgetName": "RadioGroup1"
+}
