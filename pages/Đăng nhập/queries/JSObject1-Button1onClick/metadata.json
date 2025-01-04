@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "67579b198935f2255c64dee8_e22b2d02-d7c2-4fa6-8ddf-12d598578fa7",
-  "id": "Đăng nhập_JSObject1.myFun1",
+  "gitSyncId": "676a2e661f5dc3176aa0ea28_7f9763c5-a00a-46f8-b7e5-d0d978876a42",
+  "id": "Đăng nhập_JSObject1.Button1onClick",
   "pluginId": "js-plugin",
   "pluginType": "JS",
   "unpublishedAction": {
@@ -10,7 +10,6 @@
       "paginationType": "NONE",
       "timeoutInMillisecond": 10000
     },
-    "clientSideExecution": true,
     "collectionId": "Đăng nhập_JSObject1",
     "confirmBeforeExecute": false,
     "datasource": {
@@ -24,8 +23,8 @@
       }
     ],
     "executeOnLoad": false,
-    "fullyQualifiedName": "JSObject1.myFun1",
-    "name": "myFun1",
+    "fullyQualifiedName": "JSObject1.Button1onClick",
+    "name": "Button1onClick",
     "pageId": "Đăng nhập",
     "userSetOnLoad": false
   }

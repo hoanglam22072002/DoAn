@@ -1,0 +1,26 @@
+SELECT 
+    
+    ct.tenChuongTrinh,
+  
+    COUNT(dg.id) AS soDongGop, -- Số lượng đóng góp vào chương trình
+    COUNT(ndctt.id) AS soNguoiThamGia, -- Số lượng người tham gia chương trình
+    GROUP_CONCAT(DISTINCT h.tenHoatDong ORDER BY h.thoiGian) AS danhSachHoatDong, -- Liệt kê các hoạt động liên quan
+    GROUP_CONCAT(DISTINCT n.tenNhiemVu ORDER BY n.tenNhiemVu) AS danhSachNhiemVu -- Liệt kê các nhiệm vụ trong chương trình
+FROM 
+    ChuongTrinhTuThien ct
+LEFT JOIN 
+    NguoiDungChuongTrinhTuThien ndctt ON ct.id = ndctt.ChuongTrinhTuThien_id
+LEFT JOIN 
+    DongGop dg ON ct.id = dg.ChuongTrinhTuThien_id
+LEFT JOIN 
+    NguoiDungHoatDong ndhd ON ndctt.NguoiDung_id = ndhd.NguoiDung_id
+LEFT JOIN 
+    HoatDong h ON ndhd.HoatDong_id = h.id
+LEFT JOIN 
+    NhiemVu n ON ct.id = n.ChuongTrinhTuThien_id
+WHERE 
+    ct.ngayBatDau <= CURDATE() AND ct.ngayKetThuc >= CURDATE() -- Chương trình đang diễn ra
+GROUP BY 
+    ct.id
+ORDER BY 
+    ct.ngayBatDau DESC;

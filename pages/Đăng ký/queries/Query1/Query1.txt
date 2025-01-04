@@ -1,0 +1,11 @@
+INSERT INTO NguoiDung (id, hoTen, email, diaChi, matKhau, vaiTro, trangThai) 
+VALUES 
+(
+    '{{lbTaiKhoan.text}}', 
+    'hoanglam', 
+    '{{lbTaiKhoanCopy.text}}', 
+    'hanoi', 
+    '{{lbMatKhau.text}}', 
+    'user', 
+    'active'
+);
