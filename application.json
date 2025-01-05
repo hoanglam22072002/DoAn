@@ -117,6 +117,10 @@
     {
       "id": "Lịch sử hoạt động",
       "isDefault": false
+    },
+    {
+      "id": "Hỏi đáp",
+      "isDefault": false
     }
   ],
   "unpublishedAppLayout": {

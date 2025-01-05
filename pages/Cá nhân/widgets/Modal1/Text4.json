@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 10,
+  "bottomRow": 7,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -27,8 +27,8 @@
   "mobileRightColumn": 41,
   "mobileTopRow": 1,
   "needsErrorInfo": false,
-  "originalBottomRow": 10,
-  "originalTopRow": 4,
+  "originalBottomRow": 7,
+  "originalTopRow": 1,
   "overflow": "NONE",
   "parentId": "l9phdbmo00",
   "renderMode": "CANVAS",
@@ -38,7 +38,7 @@
   "text": "Bạn có chắc chắn muốn xoá tài khoản không ?",
   "textAlign": "LEFT",
   "textColor": "#b91c1c",
-  "topRow": 4,
+  "topRow": 1,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
